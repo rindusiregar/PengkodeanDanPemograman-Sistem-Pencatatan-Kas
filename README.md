@@ -17,6 +17,6 @@ Administrator:
 # [Perbedaan]
 
 ![Menu Login](assets/img/readme/login2.png)
-![Dashboard](assets/img/readme/dashboard1.png)
+![Dashboard](assets/img/readme/dashboard2.png)
 ![Profil](assets/img/readme/profil2.png)
 ![ERD](assets/img/readme/erd.png)
